@@ -23,9 +23,9 @@ Tambahkan di `Cargo.toml`:
 
 ```toml
 [dependencies]
-csv = "1.3"
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
+csv = "1.3.1"
+serde = "1.0.219"
+serde_json = "1.0.142"
 ```
 
 ## 🚀 Cara Menjalankan
