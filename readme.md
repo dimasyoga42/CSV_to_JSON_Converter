@@ -1,7 +1,7 @@
 # CSV to JSON Converter (Rust)
 
-Program ini adalah CLI sederhana untuk mengonversi file CSV menjadi file JSON dengan pendekatan
-**modular** dan **clean code** di Rust.
+Program ini adalah CLI sederhana untuk mengonversi file CSV menjadi file JSON dengan cepat melalui
+Rust.
 
 ## 📂 Struktur Proyek
 
